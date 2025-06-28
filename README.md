@@ -6,12 +6,12 @@ I also love the logic and structure of coding and always strive to write elegant
 
 ## Fun Fact🎈:
 
-<table>
-  <tr>
+<table style="border:none;">
+  <tr style="border:none;">
     <td width="150" style="border: none;">
       <img src="https://github.com/user-attachments/assets/57073689-a488-440d-b781-3c00a1b49b1f" width="120" alt="Profile image" />
     </td>
-    <td>
+    <td style="border:none;">
 
 - 🔭 I’m currently working on something cool!  
 - 👯 I’m looking to collaborate on cool project.  
