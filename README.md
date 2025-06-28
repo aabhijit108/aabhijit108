@@ -1,4 +1,4 @@
-I am a self-taught Full-stack web/mobile developer from India.
+**I am a self-taught Full-stack web/mobile developer from India.**
 
 I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
 
