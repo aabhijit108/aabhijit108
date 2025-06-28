@@ -9,7 +9,7 @@ I also love the logic and structure of coding and always strive to write elegant
 <table>
   <tr>
     <td width="150" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/57073689-a488-440d-b781-3c00a1b49b1f" width="120" alt="Profile image" />
+      <img src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" width="120" alt="Profile image" />
     </td>
     <td>
 
