@@ -58,6 +58,10 @@ I also love the logic and structure of coding and always strive to write elegant
 ![Built with Love](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-orange?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/aabhijit108?label=FOLLOWERS&style=for-the-badge&logo=github)
 
+## Follow on others
+[![CODEPEN](https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/coderabhijit)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coderabhijit)
+
 ## 💰 You can help me by Donating
 <a href="https://www.buymeacoffee.com/coderabhijit" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
